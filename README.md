@@ -1,0 +1,2 @@
+# guitar-store-app
+This is a ecommerce website that serve for the purpose of guitar business. This aplication was developed by react, material UI(MUI), Saas and redux for frontend. While for the backend express, mongo, bcryptjs was used. This application have payment gateway integration and admin panel that can monitor the entire operation of the business. This is just a typical layout from myside. Off cource I could add more components to it. 
